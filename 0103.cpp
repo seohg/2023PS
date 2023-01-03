@@ -1,4 +1,4 @@
-/* 2023.01.02 백준 2566번 최댓값 */
+/* 2023.01.03 백준 2566번 최댓값 */
 #include <iostream>
 using namespace std;
 
