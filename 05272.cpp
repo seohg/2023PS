@@ -17,7 +17,7 @@ int main() {
       if(c == '.'){
         break;
       }
-      if(c!='\n'){
+      if(c!='\n'){ 
         str +=c;
       }
       
